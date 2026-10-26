@@ -4,7 +4,7 @@ Proyecto de práctica en análisis de datos con **SQL (MySQL)** y **Power BI**. 
 
 > ⚠️ **Aviso:** es un proyecto de práctica. Las cifras corresponden al dataset utilizado y **no fueron verificadas contra fuentes oficiales**. No representan un diagnóstico del sector salud colombiano ni deben usarse para tomar decisiones.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpg)
 
 ---
 
